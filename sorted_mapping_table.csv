@@ -1,0 +1,135 @@
+ID,Cuisine_ID,Restaurant_ID
+1,34,Indian
+1,27,Continental
+2,27,Continental
+2,34,Indian
+3,22,Bakery
+3,15,Arabian
+3,33,Middle Eastern
+4,17,Burger
+4,28,Mexican
+4,3,American
+5,3,American
+5,28,Mexican
+5,17,Burger
+6,3,American
+6,28,Mexican
+6,29,Seafood
+7,33,Middle Eastern
+7,15,Arabian
+8,9,Lebanese
+8,15,Arabian
+8,33,Middle Eastern
+9,34,Indian
+9,10,North Indian
+10,34,Indian
+11,31,Thai
+11,24,Japanese
+11,32,Chinese
+11,35,Indonesian
+11,2,Vietnamese
+12,25,Cafe
+13,3,American
+14,7,Fast Food
+14,3,American
+15,32,Chinese
+15,6,Asian
+16,3,American
+17,8,International
+17,34,Indian
+18,34,Indian
+18,26,Mughlai
+18,34,Indian
+18,21,Biryani
+19,34,Indian
+19,10,North Indian
+19,26,Mughlai
+19,21,Biryani
+20,6,Asian
+21,34,Indian
+21,6,Asian
+22,10,North Indian
+22,34,Indian
+22,32,Chinese
+22,13,Goan
+23,3,American
+23,17,Burger
+24,14,Filipino
+24,24,Japanese
+24,6,Asian
+25,34,Indian
+26,34,Indian
+26,10,North Indian
+26,34,Indian
+26,32,Chinese
+27,34,Indian
+27,10,North Indian
+27,32,Chinese
+28,37,Rajasthani
+28,34,Indian
+29,18,Pakistani
+29,34,Indian
+29,26,Mughlai
+30,30,African
+30,36,Portuguese
+31,18,Pakistani
+31,34,Indian
+32,4,Italian
+32,20,Pizza
+33,32,Chinese
+34,25,Cafe
+34,22,Bakery
+34,11,Desserts
+35,25,Cafe
+35,17,Burger
+36,31,Thai
+36,32,Chinese
+37,4,Italian
+37,20,Pizza
+38,7,Fast Food
+38,20,Pizza
+39,34,Indian
+39,10,North Indian
+40,34,Indian
+40,10,North Indian
+41,34,Indian
+42,29,Seafood
+42,3,American
+43,7,Fast Food
+43,17,Burger
+44,12,Afghani
+44,34,Indian
+44,18,Pakistani
+44,32,Chinese
+45,7,Fast Food
+45,17,Burger
+46,7,Fast Food
+46,17,Burger
+47,16,Turkish
+47,15,Arabian
+47,33,Middle Eastern
+48,34,Indian
+48,10,North Indian
+48,5,Street Food
+49,3,American
+49,28,Mexican
+50,34,Indian
+51,11,Desserts
+51,3,American
+52,3,American
+52,11,Desserts
+53,25,Cafe
+54,19,Mediterranean
+54,4,Italian
+54,31,Thai
+54,1,European
+55,18,Pakistani
+55,12,Afghani
+55,34,Indian
+55,23,Hyderabadi
+56,34,Indian
+57,34,Indian
+58,10,North Indian
+58,32,Chinese
+58,34,Indian
+59,9,Lebanese
